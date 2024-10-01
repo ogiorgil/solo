@@ -4,3 +4,9 @@ sql2question/sql2nlg/outputs
 table2question/dataset
 table2txt/dataset
 relevance/transformers-3.0.2/src/transformers.egg-info
+output/
+sql2question/sql2nlg
+*.out
+data*
+index_state*.json
+out_benchmark/
